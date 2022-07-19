@@ -6,6 +6,4 @@ Main sources of the Problems:
 
 1. Leetcode
 2. Codestudio
-3. Atcoder
-4. Codeforces
 
