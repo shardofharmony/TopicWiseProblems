@@ -1,0 +1,7 @@
+Monotonic Stack Info:
+
+https://leetcode.com/discuss/study-guide/2347639/a-comprehensive-guide-and-template-for-monotonic-stack-based-problems
+
+
+Problem 1 : 
+https://ali-ibrahim137.github.io/competitive/programming/2019/12/08/Monotonic-Queue.html
